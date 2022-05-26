@@ -1,14 +1,12 @@
 # Diffrentiation-and-Integration
-
         << "1.Symbolic Diffrentiation\n"
         << "2.Numeric Diffrentiation\n"
-        << "3.Numeric Integration" << endl;
+        << "3.Numeric Integration";
         
         
 Background : 
 My team and I decided to create a "Numerical Methods" based menu-driven program. The program will allow the user to explore a wide range of mathematical functions compiled together for ease of access. To aid in this, I will be implementing a sub-menu of methods that relate to "Linear Algebra". 
 Naturally, I chose the topic of polynomial Diffrenitation, Integration and plotting; because it is a general topic used in all sorts of engineering purposes. Additionally it is more complex to implement than other topics that require a single function to implement.
-
 
 Motivation:
 We decided to create a code with versitile functions, that could be used in a rather wide range of engineering topics.
